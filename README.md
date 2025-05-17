@@ -1,10 +1,10 @@
-# 🚗 MotoFix – Online Vehicle Spare Parts Management System
+#  MotoFix – Online Vehicle Spare Parts Management System
 
 MotoFix is a **comprehensive full-stack Java-based web application** designed to manage vehicle spare part inventory, streamline customer orders, and simplify admin operations. Built using **MVC architecture**, the project ensures strong **session management**, modular design with **DAO and Servlet layers**, and a responsive user interface using **JSP, HTML, CSS, and JavaScript**.
 
 ---
 
-## 🌐 Features Overview
+##  Features Overview
 
 ### Customer Features
 -  Browse and search for spare parts by category
@@ -55,7 +55,7 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## 🛡 Security & Session Management
+##  Security & Session Management
 
 - Secure login with **role-based redirection**
   - Admin ➝ `admin.jsp`
@@ -65,7 +65,7 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## 📁 Database Overview (MySQL)
+##  Database Overview (MySQL)
 
 - **Tables:**
   - `customers`
@@ -79,17 +79,17 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## ✅ Key Highlights
+##  Key Highlights
 
-- 📐 Cleanly structured using **MVC architecture**
-- 💾 Real-time database interaction via **JDBC**
-- 🔄 Complete e-commerce flow (browse ➝ cart ➝ checkout)
-- 🔧 Robust admin panel for inventory and user management
-- ✉️ Messaging and request system integrated
+-  Cleanly structured using **MVC architecture**
+-  Real-time database interaction via **JDBC**
+-  Complete e-commerce flow (browse ➝ cart ➝ checkout)
+-  Robust admin panel for inventory and user management
+- ✉ Messaging and request system integrated
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - Designing a full-stack Java web application from scratch
 - Handling **sessions**, **role-based access**, and **data persistence**
@@ -99,7 +99,7 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## 🧪 How to Run the Project
+##  How to Run the Project
 
 1. Clone or download this repository.
 2. Import the project into **Eclipse IDE**.
@@ -110,13 +110,13 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 *(Attach screenshots here if you'd like to visually showcase your UI!)*
 
 ---
 
-## 🙌 Author
+##  Author
 
 **[Your Name]**  
 B.Sc. (Hons) in Information Technology  
