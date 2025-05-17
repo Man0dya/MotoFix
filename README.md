@@ -6,23 +6,23 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ## 🌐 Features Overview
 
-### 👤 Customer Features
-- 🛍️ Browse and search for spare parts by category
-- 🛒 Add to cart and proceed to checkout
-- 🧾 Order confirmation with billing summary
-- 👤 View and update profile
-- 📩 Send messages and requests for unavailable parts
+### Customer Features
+-  Browse and search for spare parts by category
+-  Add to cart and proceed to checkout
+-  Order confirmation with billing summary
+-  View and update profile
+-  Send messages and requests for unavailable parts
 
-### 🧑‍💼 Admin Features
-- 🧑‍💻 Admin dashboard with total insights
-- 📦 Manage spare part inventory (CRUD operations)
-- 👥 View and manage customer accounts
-- 📬 View and respond to customer messages and requests
-- 🧾 View and track checkout orders
+###  Admin Features
+-  Admin dashboard with total insights
+-  Manage spare part inventory (CRUD operations)
+-  View and manage customer accounts
+-  View and respond to customer messages and requests
+-  View and track checkout orders
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer        | Technologies                              |
 |--------------|--------------------------------------------|
@@ -35,15 +35,15 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
-### 📄 JSP Pages
+###  JSP Pages
 - `home.jsp`, `products.jsp`, `cart.jsp`, `checkout.jsp`, `profile.jsp`
 - `admin.jsp`, `viewcustomer.jsp`, `addProduct.jsp`, `updateProduct.jsp`
 - Shared layouts: `header.jsp`, `footer.jsp`
 - Info pages: `about.jsp`, `contactus.jsp`, `faq.jsp`
 
-### 🧠 Java Backend
+###  Java Backend
 - **Servlets:**  
   `LoginServlet`, `CreateAccountServlet`, `CartServlet`, `CheckoutServlet`, `LogoffServlet`, etc.
 
@@ -55,7 +55,7 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-## 🛡️ Security & Session Management
+## 🛡 Security & Session Management
 
 - Secure login with **role-based redirection**
   - Admin ➝ `admin.jsp`
