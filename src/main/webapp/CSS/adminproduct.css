@@ -1,0 +1,67 @@
+@charset "UTF-8";
+		body {
+            font-family: 'Inria Sans', sans-serif;
+        }
+
+        h2 {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 40px;
+        }
+
+        .addbutton {
+            text-align: center;
+            margin: 0px 0;
+        }
+
+        .addbutton a {
+            display: inline-block;
+            background-color: #dd1b1b;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .addbutton a:hover {
+            background-color: #b71818;
+        }
+
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+
+        th {
+        	color:#ffffff;
+            background-color: #f14646;
+		}
+		tr:hover {
+            background-color: #ffcccc ;
+        }
+		
+		.link {
+			color: #dd1b1b;
+			text-decoration: none;
+			font-weight: bold;
+			transition: color 0.3s ease;
+		}
+		
+		.link:visited {
+		    color: #dd1b1b;
+		}
+		
+		.link:hover {
+		    color: #b71818;
+		    text-decoration: underline;
+		}
+		

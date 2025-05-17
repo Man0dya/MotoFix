@@ -1,0 +1,77 @@
+@charset "UTF-8";
+body {
+  background-color: #f0f0f0;
+  margin: 0;
+  padding-top: 90px;
+}
+
+.admin-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 70px auto;
+  width: 80%;
+  background-color: #fff;
+  padding: 40px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius:10px;
+}
+
+#admin-details, #admin-actions {
+  width: 45%;
+}
+
+#admin-details h2, #admin-actions h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid rgb(221, 27, 27);
+  padding-bottom: 10px;
+}
+
+#admin-details p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+#admin-actions button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(221, 27, 27);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+#admin-actions button:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+  color: black;
+  background-color: rgb(255, 102, 102);
+}
+.admin-button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+    margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(221, 27, 27);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.admin-button:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+  color: black;
+  background-color:  rgb(255, 102, 102);
+  
+}
+

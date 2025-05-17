@@ -1,0 +1,100 @@
+@charset "UTF-8";
+body {
+  padding-top: 90px;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #333;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.headerup {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  flex-wrap: wrap; 
+  padding: 10px 20px;
+  background-color: #333;
+}
+
+.headerdown {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  padding: 10px 20px;
+  background-color: rgb(221, 27, 27);
+}
+
+.navigation {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.5s ease;
+}
+
+.navigation li a:hover {
+  color: rgb(0, 0, 0);
+}
+
+.logo a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo a h1 {
+  font-size: 28px;
+  padding-left: 30px;
+  letter-spacing: 3px;
+  font-style: italic;
+  margin: 0;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+#requestbtn {
+  background-color: rgb(221, 27, 27);
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+#requestbtn:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+  color: black;
+}
+
+
+.icon-link {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.icon-link:hover {
+  transform: scale(1.2);
+}
+
+

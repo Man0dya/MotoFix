@@ -1,0 +1,110 @@
+@charset "UTF-8";
+html, body { 
+	margin: 0; 
+}
+body{
+	    font-family: 'Inria Sans', sans-serif;
+	
+}
+footer {
+ 	background-color: #333;
+	color: white;
+	padding: 30px;
+	position: relative;
+}
+
+.footerpart {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	text-align: center; 
+}
+
+.about, .links, .contact {
+  flex-basis: 30%;
+}
+.about {
+  text-align: left;
+}
+
+.links {
+  text-align: center;
+}
+
+.logofooter {
+  max-width: 200px;
+  margin-bottom: 10px;
+}
+
+.about p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h3 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.links ul li {
+  margin-bottom: 10px;
+}
+
+.links ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  transition: color 0.5s ease;
+}
+
+.links ul li a:hover {
+  color: red;
+}
+
+.contact {
+  text-align: right;
+}
+
+.contact p {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.contact p i {
+  margin-right: 10px;
+}
+
+.socialmedia {
+  text-align: right;
+  display: flex;
+  justify-content: right;
+  gap: 25px;
+  padding-bottom: 10px;
+}
+
+.socialmedia a img {
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s ease;
+}
+
+.socialmedia a img:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.c {
+  padding-top: 20px;
+  border-top: 1px solid #444;
+  text-align: center;
+  font-size: 14px;
+}
+
+.c p {
+  margin: 0;
+}
