@@ -97,17 +97,12 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ##  Authors
 
-**Manodya Dissanayake**
-**Bhagya Dunuvila**
-**Lihini Bowaththa**
-**Ushani Silva**
-
 | Author           | LinkedIn                                  | Email                       |
 |------------------|--------------------------------------------|-----------------------------|
 | Manodya Dissanayake  | [LinkedIn](https://linkedin.com/in/manodya-dissanayake-34a861227) | pasindumanodyadissanayake@gmail.com         |
-| Bhagya Dunuvila  | [LinkedIn](https://linkedin.com/in/username2) | member2@example.com         |
-| Lihini Bowaththa  | [LinkedIn](https://linkedin.com/in/username3) | member3@example.com         |
-| Ushani Silva  | [LinkedIn](https://linkedin.com/in/username4) | member4@example.com         |
+| Bhagya Dunuvila  | [LinkedIn](https://linkedin.com/in/username2) | lakshanibhagya2@gmail.com         |
+| Lihini Bowaththa  | [LinkedIn](https://linkedin.com/in/username3) | lihininethmini2003@gmail.com        |
+| Ushani Silva  | [LinkedIn](https://linkedin.com/in/username4) | ushanikgs@gmail.com         |
 
 ---
 
