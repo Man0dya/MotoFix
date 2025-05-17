@@ -91,7 +91,13 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ##  Screenshots
 
-*(Attach screenshots here if you'd like to visually showcase your UI!)*
+
+![Home Page](Screenshots/home.jsp.png)
+
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+![Product Page](screenshots/product_page.png)
+
 
 ---
 
