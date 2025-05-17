@@ -89,27 +89,6 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-##  What I Learned
-
-- Designing a full-stack Java web application from scratch
-- Handling **sessions**, **role-based access**, and **data persistence**
-- Applying **OOP principles** and the **DAO pattern**
-- Structuring large projects using **modular MVC** design
-- Deploying and testing on **Apache Tomcat**
-
----
-
-##  How to Run the Project
-
-1. Clone or download this repository.
-2. Import the project into **Eclipse IDE**.
-3. Set up the **MySQL database** using provided schema.
-4. Update database credentials in `ConnectDB.java`.
-5. Deploy the project on **Apache Tomcat Server**.
-6. Visit `http://localhost:8080/MotoFix/` in your browser.
-
----
-
 ##  Screenshots
 
 *(Attach screenshots here if you'd like to visually showcase your UI!)*
@@ -118,16 +97,17 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ##  Authors
 
-**Manodya Dissanayake** 
+**Manodya Dissanayake**
+**Bhagya Dunuvila**
+**Lihini Bowaththa**
+**Ushani Silva**
 
----
-
-##  Contact
-
-For any questions or collaborations, feel free to connect via:
-
-- LinkedIn: [Your LinkedIn URL]
-- Email: [yourname@example.com]
+| Author           | LinkedIn                                  | Email                       |
+|------------------|--------------------------------------------|-----------------------------|
+| Manodya Dissanayake  | [LinkedIn](https://linkedin.com/in/username1) | member1@example.com         |
+| Bhagya Dunuvila  | [LinkedIn](https://linkedin.com/in/username2) | member2@example.com         |
+| Lihini Bowaththa  | [LinkedIn](https://linkedin.com/in/username3) | member3@example.com         |
+| Ushani Silva  | [LinkedIn](https://linkedin.com/in/username4) | member4@example.com         |
 
 ---
 
