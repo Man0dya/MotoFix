@@ -85,7 +85,7 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 -  Real-time database interaction via **JDBC**
 -  Complete e-commerce flow (browse ➝ cart ➝ checkout)
 -  Robust admin panel for inventory and user management
-- ✉ Messaging and request system integrated
+-  Messaging and request system integrated
 
 ---
 
@@ -116,15 +116,13 @@ MotoFix is a **comprehensive full-stack Java-based web application** designed to
 
 ---
 
-##  Author
+##  Authors
 
-**[Your Name]**  
-B.Sc. (Hons) in Information Technology  
-Sales Executive, Sustainable Energy Management System Project
+**Manodya Dissanayake** 
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For any questions or collaborations, feel free to connect via:
 
